@@ -1,0 +1,48 @@
+
+		<div id="header">
+			<h1>Travel Site </h1>
+			<div id="nav">
+				<ul>
+					<li><a href="">Home</a></li>
+					<li><a href="">Holliday</a></li>
+					<li><a href="">Destination</a></li>
+					<li><a href="">About</a></li>
+					<li><a href="">Contact us</a></li>
+				</ul>
+			</div>
+		</div>
+	<div id="content">
+			<div id="feature">
+				<p>CONTACT US/ THE TEAM</p>
+			</div>
+		  <div class="article column1">
+				<p align="right">Katie McGowan</p>
+	  </div>
+            
+            
+          <div class="article column1">
+				<p>Billy Farroll</p>
+	  </div>
+		  <div class="article column2">
+				<p>Bankole Areola </p>
+	  </div>
+		  <div class="article column3">
+				<p align="center"><img width="240" height="240" alt="" src="file:///H|/1610877_10202683335443617_3692582105185274772_n.jpg"></p>
+	  </div>
+            
+            <div class="article column3">
+				<p align="center"><img width="240" height="240" alt="" src="file:///H|/1909753_806040606082391_64560467897879298_n.jpg"></p>
+			</div>
+            
+      <div class="article column3">
+				<p align="center"><img width="240" height="240" alt="" src="file:///H|/Desktop/535931_10200552381231576_1743039203_n.jpg"></p>
+		</div>
+        
+        
+		</div>
+        
+        
+		<div id="footer">
+			<p>© Copyright 2015</p>
+		</div>
+	
