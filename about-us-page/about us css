@@ -1,0 +1,24 @@
+* {
+				font-family: TIMES Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+				color: #060606;
+				text-align: center;}
+			body {
+				width: 960px;
+				margin: 0 auto;
+				background-image:url(TTT.jpg)}
+			#content {
+				overflow: auto;
+				height: 100%;}
+			#nav, #feature, #footer {
+				background-color: #efefef;
+				padding: 10px;
+				margin: 10px;}
+			.column1, .column2, .column3 {
+				background-color: #8F7777;
+				width: 300px;
+				float: left;
+				margin: 10px;}
+			li {
+				display: inline;
+				padding: 4px;}
+		</style>
